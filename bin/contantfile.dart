@@ -17,10 +17,8 @@ void showNumber(int number){
 int number(int a , int b )=> (a+b);
 
 int numberCheck(int a , int b ){
-
   // ignore: omit_local_variable_types
   int number = a >b ? a : b;
-
   return number;
 }
 
