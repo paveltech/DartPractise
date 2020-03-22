@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22d2778c-d878-4127-812f-8644f4185798" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bin/oop/Inheritance.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/oop/MyClass.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oop/MyClass.dart" afterDir="false" />
     </list>
@@ -39,7 +40,7 @@
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false">
-      <option name="filePath" value="$PROJECT_DIR$/bin/oop/MyClass.dart" />
+      <option name="filePath" value="$PROJECT_DIR$/bin/oop/Inheritance.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -58,34 +59,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="529" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584861755285">
+    <state x="529" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584903520798">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state x="529" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1584861755285" />
+    <state x="529" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1584903520798" />
     <state x="1122" y="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584467662900">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
     <state x="1122" y="425" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1016@0.23.1920.1016" timestamp="1584467662900" />
-    <state x="802" y="359" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1584861754152">
+    <state x="1153" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1584903318885">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state x="802" y="359" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1584861754152" />
-    <state width="1198" height="315" key="GridCell.Tab.0.bottom" timestamp="1584901657730">
+    <state x="1153" y="241" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1016@0.23.1920.1016" timestamp="1584903318885" />
+    <state x="802" y="359" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1584903520178">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1198" height="315" key="GridCell.Tab.0.bottom/0.23.1920.1016@0.23.1920.1016" timestamp="1584901657730" />
-    <state width="1198" height="315" key="GridCell.Tab.0.center" timestamp="1584901657729">
+    <state x="802" y="359" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.1920.1016@0.23.1920.1016" timestamp="1584903520178" />
+    <state width="1198" height="315" key="GridCell.Tab.0.bottom" timestamp="1584903522249">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1198" height="315" key="GridCell.Tab.0.center/0.23.1920.1016@0.23.1920.1016" timestamp="1584901657729" />
-    <state width="1198" height="315" key="GridCell.Tab.0.left" timestamp="1584901657728">
+    <state width="1198" height="315" key="GridCell.Tab.0.bottom/0.23.1920.1016@0.23.1920.1016" timestamp="1584903522249" />
+    <state width="1198" height="315" key="GridCell.Tab.0.center" timestamp="1584903522247">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1198" height="315" key="GridCell.Tab.0.left/0.23.1920.1016@0.23.1920.1016" timestamp="1584901657728" />
-    <state width="1198" height="315" key="GridCell.Tab.0.right" timestamp="1584901657729">
+    <state width="1198" height="315" key="GridCell.Tab.0.center/0.23.1920.1016@0.23.1920.1016" timestamp="1584903522247" />
+    <state width="1198" height="315" key="GridCell.Tab.0.left" timestamp="1584903522247">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1198" height="315" key="GridCell.Tab.0.right/0.23.1920.1016@0.23.1920.1016" timestamp="1584901657729" />
+    <state width="1198" height="315" key="GridCell.Tab.0.left/0.23.1920.1016@0.23.1920.1016" timestamp="1584903522247" />
+    <state width="1198" height="315" key="GridCell.Tab.0.right" timestamp="1584903522247">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1198" height="315" key="GridCell.Tab.0.right/0.23.1920.1016@0.23.1920.1016" timestamp="1584903522247" />
     <state x="452" y="169" key="SettingsEditor" timestamp="1584467609691">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>

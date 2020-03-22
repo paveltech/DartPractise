@@ -7,24 +7,25 @@ void main(){
 }
 
 class Student{
-   String name;
-   int id;
+  String _name;
+   int _id;
 
+  String get name => _name;
 
-   /**
-    * parm constactor
-    *
-    */
-   Student(this.id , this.name);
+  set name(String value) {
+    _name = value;
+  }
 
-
-   /**
-    *  custom constactor
-    *
-    */
-   Student.myAnotherConstractor(this.id , this.name);
+   Student(this._id , this._name);
+   Student.myAnotherConstractor(this._id , this._name);
 
    void showInfo(){
      print('name is ${name}' + '\nid is ${id}');
    }
+
+  int get id => _id;
+
+  set id(int value) {
+    _id = value;
+  }
 }
