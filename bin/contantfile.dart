@@ -3,8 +3,6 @@ void main(){
 
   final name = "pavel";
   const image = 'image';
-
-  name = 'image_2';
   
   print(name);
   print(image);
