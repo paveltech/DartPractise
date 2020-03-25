@@ -1,4 +1,15 @@
+
+import 'dart:collection';
 void main() {
+
+  var myhashMap = HashMap<int  , String>();
+
+  myhashMap[1] = 'robin';
+  myhashMap[2] = 'pavel';
+
+  for(var item in myhashMap.entries){
+    print('item is ${item.key} and value is ${item.value}');
+  }
 
 
   var mymap = Map<int , String>();
