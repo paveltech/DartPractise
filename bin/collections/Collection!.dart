@@ -1,4 +1,32 @@
 void main() {
+
+
+  var mymap = Map<int , String>();
+  mymap[1] = 'pavel';
+  mymap[2] = 'robin';
+  mymap[3] = 'ammu';
+  mymap[4] = 'abbu';
+
+
+  if(mymap.containsKey(1)){
+    print('find it');
+  }
+
+  for(var key in mymap.keys){
+    print('${key}');
+  }
+
+  for(var value in mymap.values){
+    print('${value}');
+  }
+
+  for(var item in mymap.entries){
+    print('key is ${item.key} and value is ${item.value}');
+  }
+
+  //mymap.forEach((key , value)=> print('key is ${key} and value is ${value}'));
+
+
   // ignore: prefer_collection_literals
   var myArrayList_1 = List<String>();
 
@@ -36,6 +64,6 @@ void main() {
 
 
   for(var item in mySet){
-    print(item);
+    //print(item);
   }
 }
